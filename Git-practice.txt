@@ -1,0 +1,5 @@
+This file use for delete and edit the commit from terminal
+test
+test
+test
+ajunß
